@@ -11,9 +11,10 @@ Sateliten, Bojen und Schiffen gemessen. Daraus wird ein schöner Graph erstellt,
 
 Was ich persönlich aber noch interessanter finde, als den Verlauf, sind die Maximal- und Minimal-Temperaturen pro Jahr. Die Scripte
 
- * world_highest_lowest_each_year.py
- * world_highest_lowest_plot.py
+ * [world_highest_lowest_each_year.py](world_highest_lowest_each_year.py)
+ * [world_highest_lowest_plot.py](world_highest_lowes_plot.py)
 
 werten das aus. Das zweite erstellt einen Graphen der Daten:
-
 ![](output/world_highest_lowest.png)
+
+Wie man sehen kann, steigen bei Temperaturwerte jedes Jahr ein wenig höher.
