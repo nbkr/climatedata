@@ -27,6 +27,7 @@ bis heute fortgeführt. Die graphische Darstellung der Messwerte nennt man Keeli
 sieht so aus:
 
 ![Keelingkurve](https://scripps.ucsd.edu/bluemoon/co2_400/mlo_full_record.png)
+*Quelle: Scripps Institution of Oceanography at UC San Diego*
 
 Was man erkennen kann ist zweierlei. Das kleinere Detail ist dass die Linie zackig ist. Jedes Jahr schwankt der CO2 Gehalt ein wenig. Im Mai/Juni jeden Jahres ist der Wert am höchsten, im September/Oktober am niedrigsten. Das hängt mit dem Pflanzenwachstum zusammen auf der Nordhalbkugel zusammen. Auf der Nordhalbkugel gibt es mehr Vegetation. Wenn diese im Sommer wächst, entzieht sie der Atmosphere CO2. Im Winter wachsen die Pflanzen weniger bis gar nicht, wodurch weniger CO2 absorbiert wird und
 der Gehalt wieder etwas steigt.
@@ -39,6 +40,7 @@ Nun, so richtig spannend wird das erst, wenn man weiter zurück geht. Mit Hilfe 
 800.000 Jahre rekonstruieren. Das egibt dann diese Kurve:
 
 ![Keelingkurve, 800.000 Jahre](https://scripps.ucsd.edu/bluemoon/co2_400/co2_800k.png)
+*Quelle: Scripps Institution of Oceanography at UC San Diego / (https://www.ncdc.noaa.gov/paleo-search/study/6091)*
 
 Man beachte den rechten Rand. Der quasi senkrechte Strich ist nicht etwa die Bildeinrahmung, sondern die aktuellen Messwerte. Die Werte sind also wie ein Rakete in den Himmel geschossen. Nie in den letzten 800.000 Jahren, war auch nur annährend soviel CO2 in der Luft wie heute. Wenn man dann noch berücksichtigt, dass unsere heutige Zivilisation nur ca. 12.000 Jahre alt, dann sollte klar werden in welche ungewöhnlichen Zeiten wir aktuell leben.
 
