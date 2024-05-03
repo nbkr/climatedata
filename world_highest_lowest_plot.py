@@ -4,6 +4,7 @@ import requests
 import sys
 import pandas as pd
 import matplotlib.pyplot as plt
+from datetime import datetime
 
 
 data = requests.get('https://climatereanalyzer.org/clim/sst_daily/json/oisst2.1_world2_sst_day.json')
@@ -29,6 +30,7 @@ for d in data.json():
 
 
 plotdata = []
+thisyear = datetime.now().strftime('%Y')
 for r in result:
     highest = result[r]['highest']
     lowest = result[r]['lowest']
@@ -36,7 +38,7 @@ for r in result:
     # Lowest temperature is usually reached at the end of the year.
     special1 = None
     special2 = None
-    if r == '2024':
+    if r == thisyear:
         special1 = lowest
         special2 = highest
         highest = None
@@ -47,6 +49,6 @@ for r in result:
 
 df = pd.DataFrame(plotdata)
 ax = df.plot(x='year', y=['highest', 'special2', 'lowest', 'special1'], xlabel='Year', ylabel='Temperature in °C', style=['.','.','.','.'], title="SST per Year", color=["#c44141", "#fc7e7e", "#326fa8", "#49e0e3"])
-plt.legend(['Highest', 'Highest 2024 (preliminiary)', 'Lowest', 'Lowest 2024 (preliminary)'])
+plt.legend(['Highest', 'Highest {} (preliminiary)'.format(thisyear), 'Lowest', 'Lowest {} (preliminary)'.format(thisyear)])
 
 ax.figure.savefig('output/world_highest_lowest.png')
