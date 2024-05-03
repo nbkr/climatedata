@@ -17,4 +17,5 @@ Was ich persönlich aber noch interessanter finde, als den Verlauf, sind die Max
 werten das aus. Das zweite erstellt einen Graphen der Daten:
 ![](output/world_highest_lowest.png)
 
-Wie man sehen kann, steigen bei Temperaturwerte jedes Jahr ein wenig höher.
+Wie man sehen kann, steigen bei Temperaturwerte jedes Jahr ein wenig höher. Die Daten des aktuellen Jahr sind mir Vorsicht zu genießen. Normalerweise
+sinkt die Temperatur erst im November auf das jährliche Minimum. Dennoch ist klar erkennbar wohin es geht. Die Meere werden jedes Jahr wärmer.
