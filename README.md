@@ -33,6 +33,15 @@ der Gehalt wieder etwas steigt.
 
 Wesentlich entscheidender ist aber, dass die Kurve generel nach oben geht. Jedes Jahr kommt etwas mehr CO2 in die Atmosphere. Wir wissen inzwischen, woher das kommt: Von uns. Wir verbrennen Kohle, Öl und Gas in einem solchem Ausmass, dass es messbar wird.
 
+So ganz ohne Kontext, sagt die Kurve einem aber nicht viel.  Ja, es läuft von 315 hoch auf 420. Ok, was solls, richtig? 
+
+Nun, so richtig spannend wird das erst, wenn man weiter zurück geht. Mit Hilfe von Eisbohrkernen und anderen Methoden, kann man den CO2 Gehalt der Luft in den letzten
+800.000 Jahre rekonstruieren. Das egibt dann diese Kurve:
+
+![Keelingkurve, 800.000 Jahre](https://scripps.ucsd.edu/bluemoon/co2_400/co2_800k.png)
+
+Man beachte den rechten Rand. Der quasi senkrechte Strich ist nicht etwa die Bildeinrahmung, sondern die aktuellen Messwerte. Die Werte sind also wie ein Rakete in den Himmel geschossen. Nie in den letzten 800.000 Jahren, war auch nur annährend soviel CO2 in der Luft wie heute. Wenn man dann noch berücksichtigt, dass unsere heutige Zivilisation nur ca. 12.000 Jahre alt, dann sollte klar werden in welche ungewöhnlichen Zeiten wir aktuell leben.
+
 ## Meerestemperatur
 
 Ein wichtiger Anhaltspunkt wie ungewöhnlich warm es eigentlich auf dem Planeten ist, ist die
