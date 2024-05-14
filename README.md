@@ -60,3 +60,11 @@ werten das aus. Das zweite erstellt einen Graphen der Daten:
 
 Wie man sehen kann, steigen bei Temperaturwerte jedes Jahr ein wenig höher. Die Daten des aktuellen Jahr sind mir Vorsicht zu genießen. Normalerweise
 sinkt die Temperatur erst im November auf das jährliche Minimum. Dennoch ist klar erkennbar wohin es geht. Die Meere werden jedes Jahr wärmer.
+
+
+## Links
+
+ * [Wie hoch war der CO2 Gehalt in deinem Geburtsjahr (englisch)](https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/carbon-by-birth-year/) \
+   Was mir dabei besonders gefällt ist dass es demonstriert wie viel schneller der Anstieg ist, in dem es die Änderung zwischen Geburtsjahr und heute mit dem gleichen Zeitraum vor der eigenen
+   Geburt vergleicht. Seit meiner Geburt ist der Wert um knapp 80 Teile pro Million gestiegen. Im der gleichen Zeitspanne - 42 Jahre - vor meiner Geburt, ist der Wert nur um gute 30 Teile pro
+   Million gestiegen.
