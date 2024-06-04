@@ -61,6 +61,10 @@ werten das aus. Das zweite erstellt einen Graphen der Daten:
 Wie man sehen kann, steigen bei Temperaturwerte jedes Jahr ein wenig höher. Die Daten des aktuellen Jahr sind mir Vorsicht zu genießen. Normalerweise
 sinkt die Temperatur erst im November auf das jährliche Minimum. Dennoch ist klar erkennbar wohin es geht. Die Meere werden jedes Jahr wärmer.
 
+## Sonstiges
+Die Klimakrise ist leider nicht das einzige Problem. Der Biodiversitätsverlust, also das Problem dass es immer weniger Tier- und Pflanzenarten gibt, wird zwar durch den Klimawandel verstärkt,
+hat aber schon davor angefangen. Auf der Seite [Biodiversität](biodiversitaet.md) sammele ich weitere Infos dazu.
+
 
 ## Links
 
