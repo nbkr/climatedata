@@ -44,9 +44,6 @@ Nun, so richtig spannend wird das erst, wenn man weiter zurück geht. Mit Hilfe 
 
 Man beachte den rechten Rand. Der quasi senkrechte Strich ist nicht etwa die Bildeinrahmung, sondern die aktuellen Messwerte. Die Werte sind also wie eine Rakete in den Himmel geschossen. Nie in den letzten 800.000 Jahren, war auch nur annährend soviel CO2 in der Luft wie heute. Wenn man dann noch berücksichtigt, dass unsere heutige Zivilisation nur ca. 12.000 Jahre alt, dann sollte klar werden in welche ungewöhnlichen Zeiten wir aktuell leben.
 
-### Direct Air Capture
-Als Direct Air Capture bezeichnet man Verfahren die CO2 direkt aus der Luft saugen.
-
 ## Meerestemperatur
 
 Ein wichtiger Anhaltspunkt wie ungewöhnlich warm es eigentlich auf dem Planeten ist, ist die
