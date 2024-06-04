@@ -63,7 +63,7 @@ sinkt die Temperatur erst im November auf das jährliche Minimum. Dennoch ist kl
 
 ## Sonstiges
 Die Klimakrise ist leider nicht das einzige Problem. Der Biodiversitätsverlust, also das Problem dass es immer weniger Tier- und Pflanzenarten gibt, wird zwar durch den Klimawandel verstärkt,
-hat aber schon davor angefangen. Auf der Seite [biodiversitaet.md](Biodiversität) sammele ich weitere Infos dazu.
+hat aber schon davor angefangen. Auf der Seite [Biodiversität](biodiversitaet.md) sammele ich weitere Infos dazu.
 
 
 ## Links
