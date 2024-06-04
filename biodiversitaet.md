@@ -15,5 +15,5 @@ Wer selbst die Fotos ansehen möchte, der Artikel ist in englisch und findet sic
 Die Bilder sind zeitlich geordnet. Oben ist 1958, unten 2007.
 
 
-[^1]: (https://www.nygeographicalliance.org/sites/default/files/HistoricAccounts_BayFisheries.pdf) in englisch
+[^1]: https://www.nygeographicalliance.org/sites/default/files/HistoricAccounts_BayFisheries.pdf in englisch
 [^2]: [archive.org Kopie](https://web.archive.org/web/20240416002924/https://www.npr.org/sections/krulwich/2014/02/05/257046530/big-fish-stories-getting-littler)
