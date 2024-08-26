@@ -72,3 +72,7 @@ hat aber schon davor angefangen. Auf der Seite [Biodiversität](biodiversitaet.m
    Was mir dabei besonders gefällt ist dass es demonstriert wie viel schneller der Anstieg ist, in dem es die Änderung zwischen Geburtsjahr und heute mit dem gleichen Zeitraum vor der eigenen
    Geburt vergleicht. Seit meiner Geburt ist der Wert um knapp 80 Teile pro Million gestiegen. Im der gleichen Zeitspanne - 42 Jahre - vor meiner Geburt, ist der Wert nur um gute 30 Teile pro
    Million gestiegen.
+
+ * [Interview mit Silke Borgstedt vom Sinus Institut bzgl. 'Null Bock auf Klimaschutz'](https://www.n-tv.de/panorama/Klima-Labor-Warum-so-viele-Menschen-gegen-Klimaschutz-sind-article25122041.html) \
+   Das Interview beleuchtet meiner Meinung nach sehr schön, dass Klimaschutz ein Luxusproblem ist. Erst wenn die akuten Probleme der Menschen gelöst sind, haben sie die Möglichkeit sich um Klimaschutz
+   gedanken zu machen. 
